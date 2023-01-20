@@ -1,10 +1,8 @@
 # Install
-
 - run  `npm install` command in root directory
 
----
-
-# Things to add
+# User Guide
+- in the input box which appears in the middle of the screen, type your colour's hex code. ex(#ff0000)
 
 # Run
 `npm run dev`
